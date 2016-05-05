@@ -6,8 +6,8 @@
 // @namespace    https://github.com/soscripted
 // @require      https://code.jquery.com/jquery-2.2.3.min.js
 // @match        *://*.github.com/*
-// @resource     html https://cdn.rawgit.com/enki-code/809b843d699292ef9b3dffc61c81faa2/raw/91d7d5d380435682f1b3d763bbdd6da4a26a5c4d/rawgit.html
-// @resource     css  https://cdn.rawgit.com/enki-code/77e17ecc6244cb387861773299bbdc19/raw/9587fe2768b3b66b4e820690a4784531b5ca93f3/rawgit.css
+// @resource     html https://cdn.rawgit.com/soscripted/rugg/master/rugg.html
+// @resource     css  https://cdn.rawgit.com/soscripted/rugg/master/rugg.css
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // ==/UserScript==
