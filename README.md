@@ -1,7 +1,7 @@
 ## RUGG - RawGit URL Generator for GitHub
 RUGG injects the awesome power of RawGit directly into GitHub. 
 
-Now you can generate RawGit urls for your files without having to leave the site.
+Now you can generate RawGit urls for your files without having to leave GitHub.
 
 
 
