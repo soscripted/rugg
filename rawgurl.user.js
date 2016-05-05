@@ -11,8 +11,6 @@
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // ==/UserScript==
-/* jshint -W097 */
-//$.noConflict();
 (function($) {
 
     function rawgit(url){
