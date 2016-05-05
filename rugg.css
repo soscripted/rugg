@@ -1,0 +1,29 @@
+.rawgit-wrapper {
+  display: none;
+  clear: left;
+  padding: 5px 0px;
+}
+
+.rawgit-pro,
+.rawgit-dev {
+  width: 469px;
+  padding-left: 45px;
+}
+
+.rawgit-dev {
+  margin-left: 10px;
+}
+
+.rawgit-pc {
+  position: absolute;
+  top: 50px;
+  font-weight: bold;
+}
+
+.rawgit-pc-pro {
+  left: 20px;
+}
+
+.rawgit-pc-dev {
+  left: 505px;
+}
