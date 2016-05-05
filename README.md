@@ -8,4 +8,5 @@ Latest Version: <kbd>[Install](https://github.com/soscripted/rugg/raw/master/rug
 
 
 
-![rugg](https://cloud.githubusercontent.com/assets/12533449/15034150/7f1799ea-1227-11e6-8794-e5cc83be77eb.gif)
+![rugg-anim](https://cloud.githubusercontent.com/assets/12533449/15035300/5586b832-1235-11e6-9c2e-fc3dc8dfeff0.gif)
+
