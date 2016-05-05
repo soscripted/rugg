@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         rawgurl
+// @name         RUGG
 // @version      1.0.2
 // @author       ᴉʞuǝ
 // @description  Generate RawGit URLs directly from GitHub
